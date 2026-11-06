@@ -1,0 +1,19 @@
+# Terraform working directory and local state
+**/.terraform/*
+*.tfstate
+*.tfstate.*
+*.tfplan
+crash.log
+crash.*.log
+
+# Local variable files and overrides (examples may be committed)
+*.tfvars
+!*.tfvars.example
+override.tf
+*_override.tf
+*_override.tf.json
+
+# Sensitive local credentials and keys
+.aws/
+*.pem
+*.key

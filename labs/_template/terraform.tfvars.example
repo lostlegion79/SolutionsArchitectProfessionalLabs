@@ -1,0 +1,3 @@
+# Copy to terraform.tfvars for local overrides. Do not commit the real file.
+aws_region = "us-east-1"
+lab_name   = "sapc02-lab"
