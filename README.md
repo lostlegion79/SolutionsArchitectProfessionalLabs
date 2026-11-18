@@ -1,5 +1,7 @@
 # AWS Solutions Architect – Professional Labs
 
+# Console URL - https://108876199870.signin.aws.amazon.com/console
+
 A hands-on study companion for the **AWS Certified Solutions Architect – Professional (SAP-C02)** exam. This repository is designed to help you build and tear down small, modular Terraform labs in a dedicated AWS lab account, then capture the reasoning and lessons learned as you study.
 
 This is a **learning guide, not a turnkey infrastructure catalog or official AWS exam-preparation product**. Lab implementations are intentionally yours to develop. The repository provides a consistent structure, safe operating habits, and prompts to help you understand both AWS architecture and Terraform rather than copy a finished answer.
